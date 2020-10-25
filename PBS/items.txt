@@ -699,7 +699,7 @@
 681,FOSSILIZEDFISH,Fossilized Fish,Fossilized Fishes,1,5000,"The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery.",0,0,8,
 682,FOSSILIZEDDRAKE,Fossilized Drake,Fossilized Drakes,1,5000,"The fossil of an ancient Pokémon that once roamed the land. What it looked like is a mystery.",0,0,8,
 683,FOSSILIZEDDINO,Fossilized Dino,Fossilized Dinos,1,5000,"The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery.",0,0,8,
-684,EXPCHARM,EXP Charm,EXP Charms,8,0,"	A charm that increases the Exp. Points that Pokémon can get. A machine-like object is inside the charm.",0,0,6,
+684,EXPCHARM,EXP Charm,EXP Charms,8,0,"A charm that increases the Exp. Points that Pokémon can get. A machine-like object is inside the charm.",0,0,6,
 685,CATCHINGCHARM,Catching Charm,Catching Charms,8,0,"Holding it is said to increase the chance of getting a critical catch. Curiously, the charm doesn't shake much.",0,0,6,
 #-------------------------------
 686,TR00,TR00,TR00s,4,0,"A frenetic dance to uplift the fighting spirit. This sharply raises the user's Attack stat.",6,0,0,SWORDSDANCE,
